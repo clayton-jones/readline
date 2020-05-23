@@ -10,6 +10,7 @@
 // readline module for terminal input/output
 const rl = require('./readline.js');
 
+
 // npm package that allows customization of terminal text
 const chalk = require('chalk');
 
@@ -25,6 +26,7 @@ let user;
 let password;
 
 let input;
+
 
 
 
